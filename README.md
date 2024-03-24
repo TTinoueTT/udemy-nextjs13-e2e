@@ -43,5 +43,8 @@ npx create-next-app@13.5.3 --tailwind nextjs-e2e --use-npm
 npm i next@13.5.3
 npm audit fix
 
+npm i next-auth @prisma/client @next-auth/prisma-adapter date-fns zustand zod @heroicons/react
 
+npm i -D prisma @playwright/test
+npx playwright install
 ```

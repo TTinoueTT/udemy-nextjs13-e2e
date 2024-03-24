@@ -39,4 +39,9 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ```bash
 npx create-next-app@13.5.3 --tailwind nextjs-e2e --use-npm
+
+npm i next@13.5.3
+npm audit fix
+
+
 ```
